@@ -169,7 +169,7 @@ stats_sector = sector['SECTOR'].value_counts()[0:25]
 sectors = px.bar(y=stats_sector.values,
                  x=stats_sector.index,
                  color_discrete_sequence=[colors[1]],
-                 title='TOP 20 SECTORS')
+                 title='TOP 25 SECTORS')
 
 sectors.update_layout(xaxis_title=None, yaxis_title='Count of Job Postings')
 st.plotly_chart(sectors)
@@ -178,7 +178,7 @@ stats_company = dataframe['COMPANY'].value_counts()[0:25]
 companies = px.bar(y=stats_company.values,
                    x=stats_company.index,
                    color_discrete_sequence=[colors[1]],
-                   title='TOP 20 COMPANIES')
+                   title='TOP 25 COMPANIES')
 
 companies.update_layout(xaxis_title=None, yaxis_title='Count of Job Postings')
 st.plotly_chart(companies)
