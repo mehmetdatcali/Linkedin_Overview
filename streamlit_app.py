@@ -53,10 +53,10 @@ with first[0]:
                 "However, after filtering and organizing, it turns out that there are actually around 300 job postings "
                 "truly related to data science. The analyses presented here are derived from filtering and organizing "
                 "processes specific to job postings shared on LinkedIn, aimed at determining data science job "
-                "opportunities in Turkey. These data aim to facilitate job seekers' access to relevant job postings "
+                "opportunities in Turkiye. These data aim to facilitate job seekers' access to relevant job postings "
                 "and help them benefit from the analyses."
                 '<br><br>'
-                "Focusing on the most sought-after roles in Turkey's data science sector, this analysis identifies "
+                "Focusing on the most sought-after roles in Turkiye's data science sector, this analysis identifies "
                 "prominent positions advertised in job postings and assists newcomers in understanding which job "
                 "roles are popular in the industry."
                 '</p>', unsafe_allow_html=True)
