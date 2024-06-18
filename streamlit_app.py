@@ -15,9 +15,11 @@ hide_st_style = '''
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 st.markdown('<p style="text-align: left; font-size: xx-large">'
-            '<b>Linkedin Overview.</b>'
-            '<span style="font-size: medium;">'
-            '<a href="https://linkedin.com/in/mehmetdatcali/" style="text-decoration: none; color: #0077B5;"><em> MEHMET DATÇALI<em></a>'
+            '<b>Linked</b>'
+            '<b style=" color: #0077B5;">in</b>'
+            '<b>Overview.</b>'
+            '<span style="font-size: small;">'
+            '<a href="https://linkedin.com/in/mehmetdatcali/" style="text-decoration: none; color: #ffffff;"><em> DEVELOPER: MEHMET DATÇALI</em></a>'
             '</span>'
             '</p>', unsafe_allow_html=True)
 
@@ -36,10 +38,10 @@ first = st.columns([0.6, 0.4])
 second = st.columns([0.4, 0.6])
 third = st.columns([0.4, 0.3, 0.3])
 fourth = st.columns([0.6, 0.4])
-
+colors = ['#5f0f40', '#9a031e', '#fb8b24', '#e36414', '#0f4c5c', '#5f0f40', '#9a031e', '#fb8b24', '#e36414', '#0f4c5c']
 ########################################################################################################################
 with first[0]:
-    st.markdown('<br>' * 3, unsafe_allow_html=True)
+    st.markdown('<br>' * 2, unsafe_allow_html=True)
     st.markdown('*<p style="text-align: left; font-size: x-large">'
                 '<strong>'
                 'MOST FREQUENTLY ADVERTISED POSITIONS'
@@ -47,14 +49,14 @@ with first[0]:
                 '</p>*', unsafe_allow_html=True)
 
     st.markdown('<p style="text-align: left; font-size: medium; color: gray", >'
-                "On June 18, 2024, in LinkedIn searches, you can find over 600 job postings related to data science. "
+                "On June 18, 2024, in LinkedIn searches, you can find over 550 job postings related to data science. "
                 "However, after filtering and organizing, it turns out that there are actually around 300 job postings "
                 "truly related to data science. The analyses presented here are derived from filtering and organizing "
                 "processes specific to job postings shared on LinkedIn, aimed at determining data science job "
-                "opportunities in Turkiye. These data aim to facilitate job seekers' access to relevant job postings "
+                "opportunities in Turkey. These data aim to facilitate job seekers' access to relevant job postings "
                 "and help them benefit from the analyses."
                 '<br><br>'
-                "Focusing on the most sought-after roles in Turkiye's data science sector, this analysis identifies "
+                "Focusing on the most sought-after roles in Turkey's data science sector, this analysis identifies "
                 "prominent positions advertised in job postings and assists newcomers in understanding which job "
                 "roles are popular in the industry."
                 '</p>', unsafe_allow_html=True)
@@ -68,7 +70,8 @@ with first[1]:
                                   textinfo='label + percent',
                                   textposition='outside',
                                   showlegend=False,
-                                  hole=0.7)])
+                                  marker=dict(colors=colors),
+                                  hole=0.8)])
     st.plotly_chart(jobs)
 
 ########################################################################################################################
@@ -79,7 +82,8 @@ with second[0]:
                                          textinfo='label + percent',
                                          textposition='outside',
                                          showlegend=False,
-                                         hole=0.7)])
+                                         marker=dict(colors=colors),
+                                         hole=0.8)])
     st.plotly_chart(experiences)
 
 with second[1]:
@@ -119,7 +123,8 @@ with third[1]:
                                     textinfo='label + percent',
                                     textposition='outside',
                                     showlegend=False,
-                                    hole=0.7)])
+                                    marker=dict(colors=colors),
+                                    hole=0.8)])
     st.plotly_chart(employments)
 
 with third[2]:
@@ -129,13 +134,18 @@ with third[2]:
                                   textinfo='label + percent',
                                   textposition='outside',
                                   showlegend=False,
-                                  hole=0.7)])
+                                  marker=dict(colors=colors),
+                                  hole=0.8)])
     st.plotly_chart(workplaces)
 
 ########################################################################################################################
 with fourth[0]:
     stats_skill = skill['SKILL'].value_counts().sort_values(ascending=True)[-20:]
-    skill = px.bar(y=stats_skill.values, x=stats_skill.index)
+    skill = px.bar(y=stats_skill.values,
+                   x=stats_skill.index,
+                   color_discrete_sequence=[colors[3]]
+                   )
+
     skill.update_layout(xaxis_title=None, yaxis_title='Count of Job Postings')
     st.plotly_chart(skill)
 
@@ -156,11 +166,19 @@ with fourth[1]:
 
 ########################################################################################################################
 stats_sector = sector['SECTOR'].value_counts()[0:25]
-sectors = px.bar(y=stats_sector.values, x=stats_sector.index, title='TOP 20 SECTORS')
+sectors = px.bar(y=stats_sector.values,
+                 x=stats_sector.index,
+                 color_discrete_sequence=[colors[1]],
+                 title='TOP 20 SECTORS')
+
 sectors.update_layout(xaxis_title=None, yaxis_title='Count of Job Postings')
 st.plotly_chart(sectors)
 
 stats_company = dataframe['COMPANY'].value_counts()[0:25]
-companies = px.bar(y=stats_company.values, x=stats_company.index, title='TOP 20 COMPANIES')
+companies = px.bar(y=stats_company.values,
+                   x=stats_company.index,
+                   color_discrete_sequence=[colors[1]],
+                   title='TOP 20 COMPANIES')
+
 companies.update_layout(xaxis_title=None, yaxis_title='Count of Job Postings')
 st.plotly_chart(companies)
