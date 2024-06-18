@@ -39,7 +39,7 @@ fourth = st.columns([0.6, 0.4])
 
 ########################################################################################################################
 with first[0]:
-    st.markdown('<br>' * 2, unsafe_allow_html=True)
+    st.markdown('<br>' * 3, unsafe_allow_html=True)
     st.markdown('*<p style="text-align: left; font-size: x-large">'
                 '<strong>'
                 'MOST FREQUENTLY ADVERTISED POSITIONS'
