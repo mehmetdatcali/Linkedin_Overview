@@ -1,306 +1,422 @@
-JOB,EXPERIENCE,EMPLOYMENT,WORKPLACE,LOCATION,COMPANY
-data scientist,senior,full-time,on-site,istanbul,mobven
-data scientist,senior,full-time,hybrid,istanbul,agoda
-data scientist,leader,full-time,hybrid,istanbul,agoda
-data scientist,senior,full-time,hybrid,istanbul,teb arf
-data scientist,senior,full-time,hybrid,istanbul,ing hubs turkiye
-data scientist,senior,full-time,hybrid,istanbul,yapi kredi
-data scientist,senior,full-time,hybrid,istanbul,agoda
-data scientist,unknown,full-time,hybrid,istanbul,beije
-data scientist,senior,full-time,remote,istanbul,bitexen
-data scientist,senior,full-time,hybrid,istanbul,trendyol group
-data scientist,senior,full-time,hybrid,istanbul,obss
-data scientist,senior,full-time,unknown,istanbul,metyis
-data scientist,senior,full-time,hybrid,istanbul,ing hubs turkiye
-data scientist,senior,full-time,remote,turkiye,innovance consultancy
-data scientist,senior,full-time,hybrid,istanbul,trendyol group
-data scientist,senior,full-time,hybrid,ankara,paneratech
-data scientist,senior,full-time,hybrid,istanbul,turkcell
-data scientist,senior,full-time,hybrid,istanbul,d&r
-data scientist,unknown,full-time,hybrid,istanbul,prometa ai
-data scientist,senior,full-time,hybrid,istanbul,koc finansman a.s.
-data scientist,senior,full-time,hybrid,istanbul,lc waikiki
-data scientist,senior,full-time,hybrid,istanbul,yves rocher turkiye
-data scientist,senior,full-time,on-site,istanbul,aramco
-data scientist,senior,full-time,hybrid,istanbul,hepsiburada
-data scientist,leader,full-time,hybrid,istanbul,sompo sigorta
-data scientist,senior,full-time,remote,istanbul,hepsiburada
-data scientist,senior,full-time,on-site,istanbul,amaris consulting
-data scientist,senior,full-time,unknown,istanbul,adjust
-data scientist,senior,full-time,on-site,istanbul,amaris consulting
-data scientist,senior,full-time,hybrid,istanbul,paribu
-data scientist,senior,full-time,hybrid,istanbul,trendyol group
-data scientist,senior,full-time,remote,turkiye,nmq digital
-data scientist,senior,full-time,on-site,istanbul,denizbank
-data scientist,unknown,full-time,remote,turkiye,prorize llc
-data scientist,senior,full-time,hybrid,istanbul,pazarama
-data scientist,senior,full-time,unknown,istanbul,dhl supply chain
-data scientist,senior,contract,remote,emea,proxify
-data scientist,senior,full-time,remote,turkiye,eczacibasi bilisim
-data scientist,junior,full-time,remote,istanbul,oredata
-data scientist,senior,full-time,on-site,istanbul,n11
-data scientist,senior,full-time,hybrid,istanbul,garanti bbva
-data scientist,senior,full-time,on-site,ankara,jotform
-data scientist,senior,full-time,hybrid,istanbul,garanti bbva teknoloji
-data scientist,senior,full-time,hybrid,istanbul,yapi kredi
-data scientist,unknown,full-time,remote,istanbul,token metrics
-data scientist,senior,contract,remote,middle east,aiqu
-data scientist,senior,full-time,on-site,istanbul,peak
-data scientist,senior,full-time,remote,turkiye,epam systems
-data scientist,senior,full-time,remote,emea,braintrust
-data scientist,senior,full-time,hybrid,istanbul,pegasus airlines
-data scientist,senior,full-time,remote,turkiye,hepsiburada
-data scientist,junior,full-time,on-site,ankara,jotform
-data scientist,senior,full-time,hybrid,istanbul,ing turkiye
-data scientist,senior,full-time,remote,turkiye,turing
-data scientist,senior,full-time,hybrid,istanbul,denizbank
-data scientist,unknown,full-time,hybrid,istanbul,vodafone
-data scientist,senior,full-time,hybrid,istanbul,garanti bbva
-data scientist,senior,full-time,remote,emea,deel
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,senior,full-time,remote,turkiye,turing
-data scientist,senior,full-time,remote,istanbul,turing
-data scientist,senior,contract,remote,turkiye,yo hr consultancy
-data scientist,senior,full-time,on-site,istanbul,denizbank
-data scientist,senior,full-time,remote,emea,understanding recruitment
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,senior,full-time,remote,turkiye,turing
-data scientist,leader,full-time,remote,turkiye,turing
-data scientist,senior,full-time,remote,istanbul,turing
-data scientist,leader,full-time,remote,istanbul,turing
-data scientist,senior,full-time,remote,turkiye,turing
-data scientist,senior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,turkiye,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,istanbul,turing
-data scientist,junior,full-time,remote,turkiye,turing
-business analyst,senior,full-time,hybrid,istanbul,bnp paribas leasing solutions
-business analyst,senior,full-time,hybrid,istanbul,essentra
-business analyst,senior,full-time,hybrid,izmir,dias teknoloji
-business analyst,senior,full-time,hybrid,istanbul,hitit
-business analyst,unknown,full-time,hybrid,istanbul,beakwise inc.
-business analyst,senior,full-time,remote,turkiye,credit europe bank n.v.
-business analyst,unknown,full-time,hybrid,istanbul,codexist
-data analyst,senior,full-time,on-site,istanbul,scorp
-business analyst,unknown,full-time,hybrid,istanbul,value gene consulting group
-business analyst,senior,full-time,on-site,istanbul,gunvor group ltd
-business analyst,senior,full-time,on-site,balikesir,best transformer
-business analyst,director,full-time,hybrid,istanbul,agoda
-business analyst,senior,full-time,hybrid,istanbul,metasis teknoloji
-data analyst,senior,full-time,unknown,istanbul,agoda
-data analyst,senior,full-time,remote,turkiye,innovance consultancy
-data analyst,senior,full-time,on-site,istanbul,gunvor group ltd
-data analyst,junior,full-time,unknown,istanbul,signify
-data analyst,senior,full-time,hybrid,istanbul,avon
-business analyst,senior,full-time,hybrid,istanbul,dgpays
-business analyst,senior,full-time,hybrid,istanbul,softtech
-data analyst,senior,full-time,hybrid,istanbul,obilet
-business analyst,senior,full-time,hybrid,istanbul,dgpays
-business analyst,unknown,full-time,on-site,kocaeli,xenon smart
-business analyst,senior,full-time,remote,istanbul,gini talent
-business analyst,unknown,contract,remote,istanbul,entangle
-business analyst,senior,full-time,remote,istanbul,icterra information and communication technologies
-business analyst,senior,full-time,remote,istanbul,otokoc otomotiv
-business analyst,senior,full-time,on-site,istanbul,gunvor group ltd
-data analyst,senior,full-time,unknown,ankara,agoda
-business analyst,senior,full-time,unknown,istanbul,agoda
-business analyst,senior,full-time,hybrid,istanbul,mercedes
-business analyst,senior,full-time,hybrid,istanbul,mercedes
-business analyst,senior,full-time,on-site,istanbul,obss
-data analyst,senior,full-time,unknown,izmir,agoda
-business analyst,senior,full-time,remote,turkiye,odeon software & technology
-business analyst,senior,full-time,on-site,antalya,fresenius medical care
-data analyst,senior,full-time,hybrid,istanbul,agoda
-business analyst,senior,full-time,hybrid,istanbul,softtech
-business analyst,senior,full-time,on-site,istanbul,shein
-data analyst,unknown,full-time,hybrid,istanbul,kuveyt turk participation bank
-business analyst,unknown,full-time,on-site,kocaeli,siemens
-business analyst,senior,full-time,hybrid,antalya,sunexpress
-data analyst,senior,full-time,on-site,istanbul,spyke games
-data analyst,senior,full-time,on-site,istanbul,ace games
-business analyst,senior,full-time,hybrid,istanbul,jforce
-business analyst,unknown,full-time,hybrid,istanbul,avd consultancy
-business analyst,unknown,full-time,hybrid,aksaray,mercedes
-business analyst,senior,full-time,hybrid,istanbul,orion innovation
-data analyst,senior,full-time,hybrid,istanbul,marti technologies
-business analyst,unknown,full-time,on-site,istanbul,tcm bilisim ve danismanlik hizmetleri
-data analyst,senior,full-time,hybrid,istanbul,trendyol group
-data analyst,unknown,full-time,on-site,istanbul,insider.
-business analyst,senior,full-time,unknown,istanbul,dfds
-data analyst,senior,full-time,unknown,istanbul,agoda
-data analyst,junior,full-time,on-site,diyarbakir,avisia
-business analyst,senior,full-time,hybrid,istanbul,odeabank
-data analyst,senior,full-time,hybrid,istanbul,midas
-business analyst,senior,full-time,remote,kocaeli,roofstacks
-data analyst,senior,full-time,on-site,ankara,jotform
-business analyst,senior,full-time,hybrid,istanbul,softtech
-business analyst,senior,full-time,remote,turkiye,innovance consultancy
-data analyst,junior,full-time,on-site,diyarbakir,avisia
-business analyst,senior,full-time,hybrid,istanbul,obss
-business analyst,senior,full-time,hybrid,ankara,ebrd
-data analyst,senior,full-time,hybrid,istanbul,boyner buyuk magazacilik a.s.
-business analyst,senior,full-time,remote,istanbul,intertech information technology and marketing inc.
-data analyst,senior,full-time,hybrid,istanbul,bsh ev aletleri turkiye
-business analyst,junior,full-time,hybrid,istanbul,amadeus
-data analyst,leader,full-time,on-site,diyarbakir,agoda
-business analyst,senior,full-time,remote,turkiye,veripark
-data analyst,senior,full-time,hybrid,istanbul,turknet
-data analyst,senior,full-time,on-site,istanbul,gizli
-data analyst,senior,full-time,on-site,diyarbakir,avisia
-business analyst,junior,full-time,hybrid,istanbul,amadeus
-business analyst,unknown,full-time,hybrid,istanbul,united payment
-business analyst,senior,full-time,hybrid,ankara,zes
-business analyst,junior,full-time,hybrid,istanbul,boyner buyuk magazacilik a.s.
-data analyst,senior,full-time,hybrid,istanbul,pazarama
-business analyst,senior,full-time,hybrid,istanbul,sestek
-data analyst,senior,full-time,hybrid,istanbul,bsh ev aletleri turkiye
-business analyst,senior,full-time,remote,turkiye,agito software & consulting
-data analyst,senior,full-time,on-site,istanbul,dream games
-business analyst,senior,full-time,hybrid,istanbul,beymen group
-business analyst,senior,full-time,remote,turkiye,odeon software & technology
-data analyst,senior,full-time,hybrid,istanbul,yemeksepeti
-business analyst,unknown,full-time,hybrid,istanbul,odeabank
-business analyst,senior,full-time,on-site,istanbul,demiroren medya
-business analyst,unknown,full-time,hybrid,istanbul,kartaca
-data analyst,senior,full-time,on-site,istanbul,massive bio
-business analyst,unknown,full-time,hybrid,istanbul,ft teknoloji
-business analyst,senior,full-time,hybrid,istanbul,arabam.com
-data analyst,junior,full-time,remote,ankara,talent disruptors
-business analyst,senior,full-time,on-site,istanbul,qnb finansinvest
-business analyst,unknown,full-time,hybrid,istanbul,odeabank
-business analyst,unknown,full-time,unknown,istanbul,jpmorgan chase & co.
-data analyst,unknown,full-time,hybrid,istanbul,trendyol group
-business analyst,senior,full-time,hybrid,istanbul,volkswagen dogus finansman a.s.
-data analyst,junior,full-time,hybrid,istanbul,qnb finansbank
-business analyst,senior,full-time,remote,turkiye,amaris consulting
-business analyst,senior,full-time,remote,istanbul,icterra information and communication technologies
-business analyst,senior,full-time,remote,turkiye,odeon software & technology
-business analyst,senior,full-time,on-site,istanbul,peyman
-data analyst,senior,contract,remote,emea,siira
-business analyst,senior,full-time,hybrid,istanbul,pepsico
-business analyst,junior,full-time,remote,turkiye,sigortam.net
-business analyst,senior,full-time,remote,turkiye,trive
-business analyst,senior,full-time,hybrid,istanbul,pazarama
-business analyst,senior,full-time,remote,turkiye,innovance consultancy
-business analyst,senior,full-time,remote,istanbul,intertech information technology and marketing inc.
-data analyst,unknown,full-time,hybrid,istanbul,the coca
-business analyst,senior,full-time,remote,turkiye,credit europe bank n.v.
-business analyst,senior,full-time,hybrid,istanbul,skechers turkiye
-data analyst,unknown,full-time,on-site,istanbul,appnation
-business analyst,senior,full-time,remote,istanbul,mobven
-business analyst,senior,full-time,remote,istanbul,tmob
-business analyst,senior,full-time,hybrid,istanbul,uplift people consulting
-business analyst,senior,full-time,hybrid,ankara,fibabanka
-data analyst,junior,full-time,on-site,antalya,michael page
-data analyst,senior,full-time,hybrid,istanbul,trendyol group
-business analyst,senior,full-time,remote,istanbul,intertech information technology and marketing inc.
-business analyst,junior,full-time,remote,istanbul,grafton recruitment
-data analyst,intern,internship,on-site,bursa,bosch turkiye
-business analyst,senior,full-time,hybrid,istanbul,metlife turkiye
-data analyst,senior,full-time,hybrid,istanbul,yandex
-business analyst,senior,full-time,hybrid,istanbul,trendyol group
-business analyst,senior,full-time,remote,istanbul,n
-data analyst,senior,full-time,remote,turkiye,hepsiburada
-business analyst,senior,full-time,hybrid,istanbul,garanti bbva teknoloji
-data analyst,senior,full-time,hybrid,istanbul,pegasus airlines
-business analyst,senior,full-time,hybrid,istanbul,trendyol group
-business analyst,senior,full-time,hybrid,istanbul,hitit
-data analyst,senior,full-time,remote,istanbul,hepsiburada
-business analyst,senior,full-time,hybrid,istanbul,finbyte
-data analyst,senior,full-time,hybrid,istanbul,recordati
-business analyst,junior,full-time,on-site,istanbul,definex
-data analyst,senior,full-time,hybrid,istanbul,garanti bbva teknoloji
-business analyst,junior,full-time,remote,istanbul,grafton recruitment
-business analyst,junior,full-time,remote,istanbul,accenture
-business analyst,senior,full-time,hybrid,istanbul,allianz turkiye
-business analyst,senior,full-time,remote,istanbul,appcent
-data analyst,unknown,contract,remote,istanbul,peroptyx
-business analyst,unknown,full-time,unknown,ankara,ericsson
-data analyst,senior,full-time,hybrid,istanbul,garanti bbva teknoloji
-data analyst,junior,full-time,remote,turkiye,obss
-business analyst,senior,full-time,hybrid,istanbul,pegasus airlines
-business analyst,junior,temporary,hybrid,istanbul,grafton recruitment
-data analyst,senior,full-time,remote,turkiye,obss
-data analyst,senior,full-time,remote,turkiye,obss
-business analyst,intern,internship,on-site,bursa,acca careers
-business analyst,senior,full-time,hybrid,istanbul,garanti bbva teknoloji
-data analyst,junior,contract,remote,turkiye,peroptyx
-business analyst,senior,full-time,hybrid,istanbul,garanti bbva teknoloji
-business analyst,unknown,full-time,hybrid,istanbul,lidy
-business analyst,senior,full-time,on-site,istanbul,michael page
-business analyst,junior,contract,remote,emea,braintrust
-business analyst,unknown,full-time,hybrid,istanbul,deutsche bank
-business analyst,senior,contract,remote,emea,world food programme
-business analyst,junior,full-time,remote,ankara,mygwork
-data scientist,senior,contract,remote,turkiye,yo hr consultancy
-data analyst,senior,full-time,remote,emea,canonical
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,senior,full-time,remote,turkiye,turing
-business analyst,senior,full-time,hybrid,istanbul,amaris consulting
-business analyst,senior,full-time,hybrid,istanbul,amaris consulting
-data analyst,senior,full-time,remote,istanbul,turing
-data analyst,senior,full-time,remote,emea,deel
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,istanbul,turing
-business analyst,senior,full-time,remote,istanbul,amaris consulting
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,istanbul,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,turkiye,turing
-data analyst,junior,full-time,remote,istanbul,turing
+APPLY,JOB,TITLE,EXPERIENCE,EMPLOYMENT,WORKPLACE,LOCATION,COMPANY
+no,data scientist,data scientist,unknown,full-time,hybrid,istanbul,beije
+easy apply,data scientist,data scientist,unknown,full-time,remote,turkiye,prorize llc
+easy apply,data engineer,data analysis and algorithm engineer,unknown,full-time,remote,turkiye,mall iq
+no,data scientist,senior data scientist,senior,full-time,on-site,istanbul,mobven
+easy apply,data scientist,data scientist,senior,full-time,on-site,ankara,jotform
+no,data scientist,senior data scientist,senior,full-time,hybrid,istanbul,agoda
+easy apply,data engineer,"principal specialist, data engineering",senior,full-time,hybrid,istanbul,etiya
+easy apply,data scientist,data scientist,junior,full-time,on-site,ankara,jotform
+easy apply,data scientist,data scientist,senior,full-time,hybrid,istanbul,pazarama
+easy apply,data scientist,senior data scientist,senior,full-time,hybrid,istanbul,koc finansman a.s.
+easy apply,data scientist,data scientist,senior,full-time,hybrid,istanbul,migros one
+no,data scientist,lead/ staff data scientist,leader,full-time,hybrid,istanbul,agoda
+no,data scientist,senior data scientist,senior,full-time,hybrid,ankara,mobileaction
+easy apply,data scientist,senior data scientist - ai and data science expert,senior,full-time,hybrid,istanbul,teb arf
+no,data engineer,data analytics engineer,senior,full-time,on-site,istanbul,safeguard global
+easy apply,data scientist,senior data scientist,senior,full-time,hybrid,istanbul,yapi kredi
+easy apply,data scientist,senior/expert data scientist,senior,full-time,remote,turkiye,innovance consultancy
+no,data scientist,senior data scientist,senior,full-time,remote,turkiye,eczacibasi bilisim
+no,data scientist,data scientist,senior,full-time,hybrid,istanbul,paribu
+easy apply,data scientist,lead data scientist,leader,full-time,hybrid,istanbul,sompo sigorta
+easy apply,data scientist,senior data scientist,senior,full-time,hybrid,istanbul,obss
+easy apply,data scientist,data scientist,senior,full-time,hybrid,istanbul,yves rocher turkiye
+easy apply,data scientist,senior data scientist,senior,full-time,hybrid,istanbul,d&r
+no,data analyst,data analyst,senior,full-time,unknown,istanbul,agoda
+easy apply,data scientist,data scientist,senior,full-time,hybrid,istanbul,denizbank
+no,data scientist,senior data scientist,senior,full-time,remote,turkiye,epam systems
+easy apply,data scientist,senior data scientist,senior,full-time,remote,istanbul,bitexen
+easy apply,data scientist,risk modelleri validasyon uzmani/yetkilisi/yonetmeni data scientist,senior,full-time,on-site,istanbul,denizbank
+easy apply,data analyst,advanced analytics / data scientist,senior,full-time,hybrid,istanbul,garanti bbva teknoloji
+easy apply,data scientist,data scientist executive/sr. specialist,senior,full-time,hybrid,istanbul,hepsiburada
+easy apply,data scientist,veri bilimi uzman yardimcisi,junior,full-time,on-site,istanbul,nextray ai detection & response inc
+no,data scientist,senior data scientist - seller,senior,full-time,hybrid,istanbul,trendyol group
+no,data engineer,data engineer,unknown,full-time,unknown,istanbul,procter & gamble
+no,data scientist,associate data scientist,senior,full-time,unknown,istanbul,metyis
+easy apply,data scientist,data scientist validasyon yetkilisi - uzmani - yonetmeni,senior,full-time,hybrid,istanbul,garanti bbva
+easy apply,data scientist,nlp data scientist,senior,full-time,hybrid,istanbul,ing hubs turkiye
+easy apply,data scientist,data scientist / ai developer,senior,full-time,remote,turkiye,nmq digital
+easy apply,data scientist,senior data scientist,senior,full-time,hybrid,istanbul,lc waikiki
+no,data engineer,lead data engineer – data platform,leader,full-time,unknown,istanbul,agoda
+no,data analyst,data management and growth analysis specialist,unknown,full-time,hybrid,istanbul,aon
+no,data scientist,"downstream data scientist- relocate to saudi arabia, permanent expat family relocation package",senior,full-time,on-site,istanbul,aramco
+easy apply,data scientist,senior data scientist,senior,full-time,hybrid,istanbul,turkcell
+easy apply,data analyst,senior/expert data warehouse analyst,senior,full-time,remote,turkiye,innovance consultancy
+easy apply,data analyst,associates / senior associates - acceleration centre deals & data analytics,senior,full-time,hybrid,istanbul,pwc turkiye
+no,data scientist,data scientist,senior,full-time,hybrid,istanbul,agoda
+easy apply,data scientist,principal data scientist,senior,full-time,remote,turkiye,hepsiburada
+easy apply,data scientist,data scientist,junior,full-time,remote,istanbul,oredata
+no,data scientist,data scientist,senior,full-time,unknown,istanbul,dhl supply chain
+easy apply,bi analyst,senior business analyst,senior,full-time,hybrid,istanbul,dgpays
+no,data scientist,data scientist,senior,full-time,on-site,istanbul,amaris consulting
+no,data scientist,data scientist,senior,full-time,on-site,istanbul,amaris consulting
+no,data scientist,data scientist,senior,full-time,remote,turkiye,epam systems
+easy apply,data scientist,senior data scientist,senior,full-time,remote,istanbul,hepsiburada
+no,data scientist,staff data scientist,senior,full-time,unknown,istanbul,adjust
+easy apply,bi analyst,senior business intelligence & analytics engineer,senior,full-time,hybrid,antalya,sunexpress
+easy apply,data analyst,data scientist for customer/service analytics,senior,full-time,hybrid,istanbul,yapi kredi
+easy apply,bi analyst,business analyst,senior,full-time,remote,turkiye,veripark
+no,data engineer,software engineer for ai training data,senior,contract,remote,istanbul,g2i inc.
+no,data engineer,chief data software engineer,senior,full-time,remote,turkiye,epam systems
+easy apply,data engineer,expert/senior data engineer,senior,full-time,remote,turkiye,innovance consultancy
+easy apply,data scientist,senior data scientist,senior,full-time,hybrid,ankara,paneratech
+easy apply,data scientist,launch your career as a jr data scientist with denizbank!,senior,full-time,on-site,istanbul,denizbank
+easy apply,bi analyst,business analyst - credit products management,senior,full-time,hybrid,ankara,fibabanka
+easy apply,data scientist,data scientist yapisal risk yetkilisi - uzmani – yonetmeni,senior,full-time,hybrid,istanbul,garanti bbva
+easy apply,data analyst,senior data analyst - hybrid,senior,full-time,hybrid,istanbul,pegasus airlines
+no,data scientist,optimization data scientist,senior,full-time,hybrid,istanbul,trendyol group
+no,data analyst,lead data analyst / senior analyst,leader,full-time,unknown,istanbul,agoda
+no,data engineer,senior / lead data engineer,leader,full-time,remote,turkiye,epam systems
+easy apply,data analyst,data scientist- product & channel analytics,senior,full-time,hybrid,istanbul,ing turkiye
+no,data engineer,crypto data scientist / machine learning engineer,unknown,full-time,remote,istanbul,token metrics
+no,data scientist,data scientist,senior,full-time,on-site,istanbul,dream games
+no,data analyst,senior data analyst,senior,full-time,unknown,istanbul,agoda
+easy apply,data analyst,python data scientist/analyst - llm project,senior,contract,remote,turkiye,yo hr consultancy
+no,data engineer,ml/ai - data scientist engineer,senior,full-time,remote,emea,braintrust
+easy apply,data scientist,senior data scientist - revenue management - hybrid,senior,full-time,hybrid,istanbul,pegasus airlines
+no,data scientist,data science professionals,senior,full-time,hybrid,istanbul,trendyol group
+easy apply,data scientist,data scientist,senior,contract,remote,middle east,aiqu
+no,data analyst,data analyst,junior,contract,remote,istanbul,peroptyx
+no,data scientist,data science lead,leader,full-time,hybrid,istanbul,vodafone
+easy apply,data analyst,product manager - data analytics,senior,full-time,on-site,istanbul,massive bio
+no,bi analyst,business data analyst,senior,full-time,unknown,istanbul,agoda
+no,data analyst,data analyst,junior,contract,remote,turkiye,peroptyx
+no,data engineer,senior data software engineer with redshift,senior,full-time,remote,turkiye,epam systems
+easy apply,data analyst,data analyst,senior,full-time,on-site,ankara,jotform
+no,data scientist,senior data scientist,senior,contract,remote,emea,proxify
+no,data engineer,staff data engineer,senior,full-time,unknown,istanbul,agoda
+no,data analyst,data & analytics lead,leader,contract,on-site,giresun,vodafone
+no,data scientist,senior data scientist,unknown,full-time,hybrid,istanbul,vodafone
+no,data engineer,senior / lead data integration engineer,leader,full-time,remote,turkiye,epam systems
+easy apply,data analyst,senior data analyst,senior,full-time,remote,turkiye,hepsiburada
+no,data scientist,remote data scientist,junior,full-time,remote,turkiye,turing
+no,data engineer,software engineer for ai training data,junior,contract,remote,ankara,g2i inc.
+no,data analyst,data analyst,junior,contract,remote,ankara,the/studio
+no,data engineer,software engineer for ai training data,junior,contract,remote,istanbul,g2i inc.
+no,data engineer,software engineer for ai training data,junior,contract,remote,bursa,g2i inc.
+no,data engineer,software engineer for ai training data,junior,contract,remote,antalya,g2i inc.
+no,data engineer,software engineer for ai training data,junior,contract,remote,gaziantep,g2i inc.
+no,data scientist,data scientist,senior,full-time,remote,turkiye,turing
+no,data scientist,data scientist,senior,full-time,remote,istanbul,turing
+no,data scientist,senior data scientist,senior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,turkiye,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist,junior,full-time,remote,istanbul,turing
+no,data scientist,python data scientist,senior,full-time,remote,turkiye,turing
+no,data scientist,senior data scientist,senior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,turkiye,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,istanbul,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,istanbul,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,istanbul,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,turkiye,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,istanbul,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,turkiye,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote python data science professional,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,data scientist lead/manager,leader,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data scientist,data scientist lead/manager,leader,full-time,remote,istanbul,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,istanbul,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,istanbul,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,istanbul,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,turkiye,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,turkiye,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist,junior,full-time,remote,istanbul,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,istanbul,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,istanbul,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist,junior,full-time,remote,istanbul,turing
+easy apply,bi analyst,senior business analyst,unknown,full-time,on-site,kocaeli,xenon smart
+easy apply,bi analyst,business and system analyst,unknown,full-time,hybrid,istanbul,beakwise inc.
+easy apply,bi analyst,it business & process analyst,senior,full-time,hybrid,istanbul,bnp paribas leasing solutions
+easy apply,bi analyst,business analyst,unknown,full-time,hybrid,istanbul,kartaca
+easy apply,bi analyst,digital banking business analyst,senior,full-time,remote,turkiye,credit europe bank n.v.
+easy apply,data scientist,data scientist,unknown,full-time,remote,turkiye,prorize llc
+easy apply,bi analyst,core banking business analyst,senior,full-time,hybrid,istanbul,dgpays
+easy apply,bi analyst,business analyst,unknown,full-time,hybrid,istanbul,odeabank
+easy apply,bi analyst,"senior specialist, business analysis",senior,full-time,hybrid,istanbul,etiya
+no,bi analyst,business analyst,junior,full-time,hybrid,istanbul,amadeus
+easy apply,bi analyst,business analyst,senior,full-time,hybrid,istanbul,odeon software & technology
+no,bi analyst,business analyst,senior,full-time,remote,istanbul,mobven
+no,bi analyst,business analyst,senior,full-time,remote,turkiye,credit europe bank n.v.
+easy apply,bi analyst,senior business analyst,senior,full-time,remote,kocaeli,roofstacks
+easy apply,data scientist,data scientist,senior,full-time,hybrid,istanbul,pazarama
+no,bi analyst,business analyst,senior,full-time,hybrid,istanbul,softtech
+easy apply,data engineer,data engineer,unknown,full-time,hybrid,istanbul,kartaca
+easy apply,bi analyst,business analyst,senior,full-time,on-site,istanbul,qnb finansinvest
+easy apply,bi analyst,senior business analyst,senior,full-time,hybrid,istanbul,odeabank
+no,data analyst,data analyst,senior,full-time,hybrid,istanbul,obilet
+easy apply,bi analyst,jr. business analyst / business analyst,senior,full-time,hybrid,istanbul,hitit
+easy apply,bi analyst,business analyst,senior,full-time,remote,turkiye,agito software & consulting
+easy apply,data analyst,senior data analyst,senior,full-time,hybrid,istanbul,marti technologies
+no,bi analyst,business analyst,senior,full-time,hybrid,istanbul,softtech
+easy apply,bi analyst,business analyst,senior,full-time,remote,turkiye,odeon software & technology
+easy apply,bi analyst,business analyst,senior,full-time,remote,turkiye,trive
+no,bi analyst,senior business analyst,senior,full-time,remote,istanbul,intertech information technology and marketing inc.
+easy apply,bi analyst,consultant / business analyst,unknown,full-time,hybrid,istanbul,value gene consulting group
+no,data engineer,data analytics engineer,senior,full-time,remote,istanbul,safeguard global
+easy apply,data engineer,data analysis and algorithm engineer,unknown,full-time,remote,turkiye,mall iq
+easy apply,data engineer,data engineer,unknown,full-time,remote,turkiye,vngrs
+easy apply,bi analyst,business analyst/senior business analyst,senior,full-time,hybrid,istanbul,pazarama
+no,bi analyst,business intelligence analyst,senior,full-time,hybrid,istanbul,orion innovation
+no,data analyst,data analyst,unknown,full-time,on-site,istanbul,appnation
+easy apply,bi analyst,it business analyst,senior,full-time,hybrid,istanbul,metlife turkiye
+easy apply,data analyst,data warehouse analyst,unknown,full-time,hybrid,istanbul,kuveyt turk participation bank
+easy apply,bi analyst,business analyst,senior,full-time,hybrid,istanbul,volkswagen dogus finansman a.s.
+no,bi analyst,business analyst,senior,full-time,hybrid,istanbul,softtech
+no,bi analyst,business analyst,unknown,contract,remote,istanbul,entangle
+easy apply,bi analyst,junior business analyst,junior,full-time,remote,turkiye,sigortam.net
+no,data analyst,bi data analyst,senior,full-time,on-site,istanbul,gunvor group ltd
+no,data engineer,senior database engineer - hybrid,senior,full-time,on-site,istanbul,yemeksepeti
+easy apply,data analyst,junior data analyst - uk,junior,full-time,remote,turkiye,obss
+easy apply,data analyst,data analyst,senior,full-time,hybrid,istanbul,boyner buyuk magazacilik a.s.
+easy apply,bi analyst,business analyst,senior,full-time,hybrid,istanbul,essentra
+no,bi analyst,business analyst - oil operation and trade support,senior,full-time,on-site,istanbul,gunvor group ltd
+no,bi analyst,business analyst – finance & credit,senior,full-time,on-site,istanbul,gunvor group ltd
+no,data analyst,data analyst,senior,full-time,hybrid,istanbul,turknet
+no,data analyst,lead - audit data analyst,leader,full-time,remote,istanbul,beko corporate
+no,data analyst,logistics data analyst,junior,full-time,unknown,istanbul,signify
+easy apply,bi analyst,business analyst,senior,full-time,hybrid,istanbul,otokoc otomotiv
+easy apply,bi analyst,financial strategy and business development analyst,senior,full-time,on-site,istanbul,peyman
+easy apply,bi analyst,business analyst,senior,full-time,on-site,balikesir,best transformer
+easy apply,bi analyst,senior business analyst,senior,full-time,on-site,istanbul,dias teknoloji
+easy apply,bi analyst,business analyst,unknown,full-time,hybrid,istanbul,united payment
+easy apply,bi analyst,business analyst,senior,full-time,on-site,istanbul,obss
+no,bi analyst,financial business analyst,senior,full-time,unknown,istanbul,dfds
+easy apply,bi analyst,it commercial senior business analyst,senior,full-time,hybrid,antalya,sunexpress
+easy apply,bi analyst,sr. business analyst,senior,full-time,on-site,istanbul,shein
+easy apply,bi analyst,senior business analyst,senior,full-time,remote,istanbul,gini talent
+no,bi analyst,senior business analyst - sap mm - scm,senior,full-time,hybrid,istanbul,mercedes
+easy apply,bi analyst,business analyst,senior,full-time,hybrid,istanbul,beymen group
+easy apply,bi analyst,"strategic business development analyst , m&a transaction services",senior,full-time,on-site,istanbul,eren holding
+no,bi analyst,sap & business analyst,unknown,full-time,on-site,kocaeli,siemens
+easy apply,bi analyst,operational excellence business analyst and project manager,senior,full-time,on-site,antalya,fresenius medical care
+easy apply,bi analyst,business analyst,senior,full-time,hybrid,istanbul,obss
+no,bi analyst,senior technical business analyst,unknown,full-time,unknown,istanbul,ericsson
+no,bi analyst,senior business analyst - sap sd,senior,full-time,hybrid,istanbul,mercedes
+no,data scientist,lead/ staff data scientist,leader,full-time,hybrid,istanbul,agoda
+easy apply,data analyst,data analyst,senior,full-time,hybrid,istanbul,yandex
+no,data analyst,data management and growth analysis specialist,unknown,full-time,hybrid,istanbul,aon
+no,bi analyst,senior business analyst,unknown,full-time,hybrid,aksaray,mercedes
+easy apply,bi analyst,"specialist, business analysis",junior,full-time,hybrid,istanbul,etiya
+easy apply,data analyst,senior data analyst,junior,full-time,hybrid,istanbul,hepsiburada
+easy apply,data analyst,kidemli veri analitigi uzmani,senior,full-time,hybrid,istanbul,talentra
+no,data analyst,data analyst,senior,full-time,on-site,istanbul,dream games
+no,bi analyst,business analyst,senior,full-time,remote,turkiye,finbyte
+easy apply,data analyst,internal audit – data analysts,senior,full-time,hybrid,istanbul,odeabank
+easy apply,data scientist,senior data scientist,senior,full-time,hybrid,istanbul,koc finansman a.s.
+easy apply,bi analyst,business analyst,unknown,full-time,hybrid,istanbul,avd consultancy
+no,bi analyst,lead business analyst,leader,full-time,hybrid,istanbul,afiniti
+no,data scientist,senior data scientist,senior,full-time,hybrid,istanbul,agoda
+easy apply,bi analyst,business analyst,senior,full-time,hybrid,istanbul,metasis teknoloji
+easy apply,bi analyst,business analyst,senior,full-time,hybrid,istanbul,boyner buyuk magazacilik a.s.
+easy apply,bi analyst,senior business analyst,senior,full-time,remote,istanbul,icterra information and communication technologies
+easy apply,bi analyst,business analyst,senior,full-time,on-site,istanbul,demiroren medya
+easy apply,data analyst,sales senior data analyst,senior,full-time,hybrid,istanbul,avon
+no,data analyst,data analyst,senior,full-time,unknown,istanbul,agoda
+no,data engineer,data engineer,unknown,full-time,unknown,istanbul,procter & gamble
+no,data analyst,data analyst,senior,full-time,on-site,istanbul,spyke games
+easy apply,bi analyst,business analyst,senior,full-time,remote,turkiye,veripark
+no,bi analyst,business analyst & consultant,senior,full-time,hybrid,istanbul,sestek
+easy apply,bi analyst,sr.business analyst,senior,full-time,hybrid,istanbul,jforce
+easy apply,data analyst,data analyst,senior,full-time,on-site,istanbul,ace games
+easy apply,bi analyst,senior business analyst,senior,full-time,hybrid,istanbul,dgpays
+no,bi analyst,business analyst,junior,full-time,remote,istanbul,accenture
+no,bi analyst,senior business analyst,senior,full-time,remote,istanbul,intertech information technology and marketing inc.
+no,bi analyst,business analysis,unknown,full-time,unknown,istanbul,jpmorganchase
+no,bi analyst,trendyol express -business development analyst,senior,full-time,hybrid,istanbul,trendyol group
+easy apply,bi analyst,senior business analyst - rpa,senior,full-time,hybrid,istanbul,lc waikiki
+easy apply,bi analyst,lead business analyst,leader,full-time,hybrid,istanbul,afiniti
+easy apply,bi analyst,finance business analyst,senior,full-time,hybrid,istanbul,arabam.com
+easy apply,data scientist,veri bilimi uzman yardimcisi,junior,full-time,on-site,istanbul,nextray ai detection & response inc
+easy apply,bi analyst,senior business analyst,senior,full-time,remote,turkiye,innovance consultancy
+easy apply,bi analyst,senior business analyst,senior,full-time,remote,turkiye,linktera
+easy apply,bi analyst,business analyst - credit products management,senior,full-time,hybrid,ankara,fibabanka
+no,bi analyst,business analyst,unknown,full-time,unknown,istanbul,jpmorganchase
+easy apply,data scientist,data scientist,senior,full-time,hybrid,istanbul,yves rocher turkiye
+easy apply,bi analyst,business analyst,senior,full-time,remote,istanbul,appcent
+easy apply,data analyst,data analyst,junior,full-time,hybrid,istanbul,qnb finansbank
+easy apply,data analyst,data analyst - uk,senior,full-time,remote,turkiye,obss
+easy apply,data analyst,market data analyst,senior,full-time,hybrid,istanbul,bsh ev aletleri turkiye
+easy apply,data analyst,data analyst uk - reporting and automation,junior,contract,remote,turkiye,obss
+easy apply,bi analyst,business analyst & test engineer,senior,full-time,remote,istanbul,tmob
+easy apply,bi analyst,business analyst,senior,full-time,remote,turkiye,odeon software & technology
+no,bi analyst,digital banking / business analyst,senior,full-time,hybrid,istanbul,garanti bbva teknoloji
+no,bi analyst,"analyst, advice for small businesses",senior,full-time,hybrid,ankara,ebrd
+no,data analyst,data analyst,unknown,full-time,on-site,istanbul,insider.
+easy apply,bi analyst,e-commerce technical business analyst,senior,full-time,hybrid,istanbul,skechers turkiye
+easy apply,data analyst,kidemli veri analitigi uzmani,senior,full-time,hybrid,istanbul,mudo
+no,data analyst,data warehouse analysis /  data analyst,senior,full-time,hybrid,istanbul,garanti bbva teknoloji
+easy apply,data scientist,data scientist executive/sr. specialist,senior,full-time,hybrid,istanbul,hepsiburada
+easy apply,data analyst,associates / senior associates - acceleration centre deals & data analytics,unknown,full-time,unknown,istanbul,pwc turkiye
+easy apply,data scientist,risk modelleri validasyon uzmani/yetkilisi/yonetmeni data scientist,senior,full-time,on-site,istanbul,denizbank
+easy apply,data analyst,big data analyst,senior,full-time,hybrid,istanbul,bsh ev aletleri turkiye
+easy apply,bi analyst,senior business analyst,unknown,full-time,hybrid,istanbul,odeabank
+no,bi analyst,business analyst,junior,full-time,hybrid,istanbul,amadeus
+no,bi analyst,credit card loyalty and financial management / business analyst,senior,full-time,hybrid,istanbul,garanti bbva teknoloji
+no,data analyst,data analyst,junior,full-time,on-site,antalya,michael page
+easy apply,bi analyst,project manager/business analyst,senior,full-time,hybrid,ankara,zes
+easy apply,bi analyst,senior business intelligence & analytics engineer,senior,full-time,hybrid,antalya,sunexpress
+easy apply,data analyst,senior data analyst - hybrid,senior,full-time,hybrid,istanbul,pegasus airlines
+easy apply,data analyst,senior/expert data warehouse analyst,senior,full-time,remote,turkiye,innovance consultancy
+no,bi analyst,digital channels business analyst,senior,full-time,remote,turkiye,amaris consulting
+no,data scientist,associate data scientist,senior,full-time,unknown,istanbul,metyis
+no,data analyst,senior data analyst,senior,full-time,unknown,istanbul,agoda
+no,bi analyst,product data intelligence analyst -,senior,full-time,hybrid,istanbul,trendyol group
+easy apply,data analyst,data analyst,senior,full-time,on-site,ankara,jotform
+no,data analyst,"growth, crm data analyst",senior,full-time,hybrid,istanbul,trendyol group
+no,data analyst,data analyst executive - marketing technologies,senior,full-time,hybrid,istanbul,yemeksepeti
+easy apply,bi analyst,senior business analyst,senior,full-time,remote,turkiye,tcm bilisim ve danismanlik hizmetleri
+easy apply,data analyst,commercial excellence data analyst,senior,full-time,hybrid,istanbul,recordati
+no,data analyst,data analyst h/f - lyon,junior,full-time,on-site,diyarbakir,avisia
+no,data analyst,smart start data analyst | maintenance,intern,internship,on-site,bursa,bosch turkiye
+easy apply,bi analyst,business development analyst,senior,full-time,on-site,istanbul,massive bio
+no,bi analyst,digital wallet solutions / business analyst,senior,full-time,hybrid,istanbul,garanti bbva teknoloji
+no,data scientist,senior data scientist,senior,full-time,remote,turkiye,epam systems
+no,data analyst,data analyst,unknown,full-time,remote,turkiye,the/studio
+no,data analyst,senior data analyst,senior,full-time,hybrid,istanbul,midas
+easy apply,data engineer,data engineer,senior,full-time,remote,turkiye,adesso turkey
+easy apply,bi analyst,business analyst - p&c claims transformation,senior,full-time,hybrid,istanbul,allianz turkiye
+no,data analyst,senior data analyst,senior,full-time,unknown,ankara,agoda
+easy apply,data analyst,healthcare data analyst,senior,full-time,on-site,istanbul,massive bio
+no,data analyst,"dolap, data analyst",senior,full-time,hybrid,istanbul,trendyol group
+no,data analyst,operations data analyst professionals,senior,full-time,hybrid,istanbul,trendyol group
+no,data engineer,senior database engineer - hybrid,senior,full-time,on-site,istanbul,yemeksepeti
+easy apply,bi analyst,"principal specialist, business analysis",senior,full-time,hybrid,istanbul,etiya
+no,data scientist,lead/ staff data scientist,leader,full-time,hybrid,istanbul,agoda
+no,bi analyst,lead business analyst,leader,full-time,hybrid,istanbul,afiniti
+no,data scientist,senior data scientist,senior,full-time,hybrid,istanbul,agoda
+no,data analyst,data analyst,senior,full-time,unknown,istanbul,agoda
+easy apply,data scientist,data scientist executive/sr. specialist,senior,full-time,hybrid,istanbul,hepsiburada
+no,bi analyst,it business analyst,senior,full-time,on-site,istanbul,michael page
+easy apply,data analyst,associates / senior associates - acceleration centre deals & data analytics,senior,full-time,hybrid,istanbul,pwc turkiye
+easy apply,data scientist,risk modelleri validasyon uzmani/yetkilisi/yonetmeni data scientist,senior,full-time,on-site,istanbul,denizbank
+easy apply,data analyst,senior/expert data warehouse analyst,senior,full-time,hybrid,istanbul,innovance consultancy
+no,data scientist,senior data scientist,senior,full-time,remote,turkiye,epam systems
+easy apply,data engineer,data engineer,senior,full-time,remote,turkiye,adesso turkey
+no,data analyst,senior data analyst,senior,full-time,unknown,istanbul,agoda
+easy apply,data scientist,data scientist validasyon yetkilisi - uzmani - yonetmeni,senior,full-time,hybrid,istanbul,garanti bbva
+no,bi analyst,business analyst,senior,full-time,hybrid,istanbul,amaris consulting
+easy apply,bi analyst,senior business analyst,senior,full-time,remote,istanbul,n
+no,bi analyst,business analyst,senior,full-time,hybrid,istanbul,amaris consulting
+no,data analyst,senior data analyst,senior,full-time,unknown,izmir,agoda
+easy apply,bi analyst,business analyst - telecommunication,junior,full-time,on-site,istanbul,definex
+no,bi analyst,digital channels business analyst,senior,full-time,remote,istanbul,amaris consulting
+easy apply,data scientist,senior data scientist,senior,full-time,hybrid,istanbul,lc waikiki
+no,bi analyst,business analyst- product,junior,contract,remote,emea,braintrust
+easy apply,data engineer,expert/senior data engineer,senior,full-time,remote,turkiye,innovance consultancy
+easy apply,bi analyst,business intelligence analyst,junior,full-time,remote,turkiye,world business lenders
+no,data analyst,senior data analyst,senior,full-time,unknown,istanbul,agoda
+no,data analyst,senior data analyst,senior,full-time,unknown,ankara,agoda
+no,bi analyst,business data analyst,senior,full-time,unknown,istanbul,agoda
+no,data analyst,veri bilimcisi-bireysel musteri analitigi yoneticisi,senior,full-time,hybrid,istanbul,akbank
+no,data engineer,senior / lead data engineer,leader,full-time,remote,turkiye,epam systems
+no,data analyst,lead data analyst / senior analyst,leader,full-time,unknown,istanbul,agoda
+easy apply,data scientist,senior data scientist - revenue management - hybrid,senior,full-time,hybrid,istanbul,pegasus airlines
+easy apply,data scientist,senior data scientist,senior,full-time,remote,istanbul,hepsiburada
+easy apply,data scientist,principal data scientist,senior,full-time,remote,turkiye,hepsiburada
+no,data engineer,data devops engineer,senior,full-time,remote,turkiye,epam systems
+no,data analyst,data analyst,senior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist,junior,full-time,remote,turkiye,turing
+no,data engineer,senior data software engineer with redshift,senior,full-time,remote,turkiye,epam systems
+no,data engineer,"customer engineer, data analytics, google cloud",unknown,full-time,on-site,istanbul,google
+no,data engineer,senior / lead data integration engineer,leader,full-time,hybrid,istanbul,epam systems
+no,data analyst,data analyst,senior,full-time,remote,istanbul,turing
+no,data engineer,data software engineer,senior,full-time,remote,turkiye,epam systems
+no,bi analyst,sr business analytics specialist - commercial analytics,unknown,full-time,remote,turkiye,thermo fisher scientific
+no,bi analyst,hcm business advisory senior analyst,unknown,full-time,hybrid,istanbul,deutsche bank
+easy apply,data analyst,"hr data analyst - turkey, izmir",junior,full-time,remote,izmir,world business lenders
+no,data engineer,autonomous database engineer,senior,full-time,remote,istanbul,oracle
+easy apply,data engineer,senior data engineer,senior,full-time,remote,turkiye,talentailors
+easy apply,data analyst,"hr data analyst - turkey, istanbul",junior,full-time,remote,istanbul,world business lenders
+no,data scientist,data scientist,senior,full-time,remote,turkiye,turing
+no,data scientist,data scientist,senior,full-time,remote,istanbul,turing
+no,data engineer,autonomous database engineer,senior,full-time,remote,turkiye,oracle
+no,data scientist,remote data scientist,junior,full-time,remote,istanbul,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist,junior,full-time,remote,turkiye,turing
+no,data engineer,autonomous database engineer,senior,full-time,remote,turkiye,oracle
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,unknown,full-time,remote,turkiye,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,istanbul,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,istanbul,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,istanbul,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist,junior,full-time,remote,istanbul,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,turkiye,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote data science analyst,junior,full-time,remote,istanbul,turing
+no,data scientist,senior data scientist,senior,full-time,remote,turkiye,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,turkiye,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,istanbul,turing
+no,data analyst,remote python data science analyst,junior,full-time,remote,turkiye,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist,junior,full-time,remote,istanbul,turing
+no,data scientist,remote python data scientist,junior,full-time,remote,turkiye,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,istanbul,turing
+no,data scientist,remote data scientist - python,junior,full-time,remote,istanbul,turing
