@@ -24,13 +24,13 @@ st.markdown('<p style="text-align: left; font-size: xx-large">'
             '</p>', unsafe_allow_html=True)
 
 ########################################################################################################################
-dataframe = pd.read_csv('data/linkedin')
+dataframe = pd.read_csv('data/linkedin.csv')
 dataframe = dataframe.applymap(lambda x: x.title())
 
-sector = pd.read_csv('data/sector')
+sector = pd.read_csv('data/sector.csv')
 sector = sector.applymap(lambda x: x.title())
 
-skill = pd.read_csv('data/skill')
+skill = pd.read_csv('data/skill.csv')
 skill = skill.applymap(lambda x: x.title())
 
 ########################################################################################################################
