@@ -49,8 +49,8 @@ with first[0]:
                 '</p>*', unsafe_allow_html=True)
 
     st.markdown('<p style="text-align: left; font-size: medium; color: gray", >'
-                "On June 20, 2024, in LinkedIn searches, you can find over 550 job postings related to data science. "
-                "However, after filtering and organizing, it turns out that there are actually around 300 job postings "
+                "On June 20, 2024, in LinkedIn searches, you can find over 600 job postings related to data science. "
+                "However, after filtering and organizing, it turns out that there are actually around 400 job postings "
                 "truly related to data science. The analyses presented here are derived from filtering and organizing "
                 "processes specific to job postings shared on LinkedIn, aimed at determining data science job "
                 "opportunities in Turkiye. These data aim to facilitate job seekers' access to relevant job postings "
